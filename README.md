@@ -7,7 +7,7 @@ Passionate about crafting clear, semantic code and user-focused web experiences.
 
 ## 🎓 Education & Training
 - **B.Sc. in Computer Science**, *Lviv University of Trade and Economics* (Sep 2017 – May 2021)
-- 
+
 ---
 
 ## 🌐 Languages
