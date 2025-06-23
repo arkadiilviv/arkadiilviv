@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Arkadii Bieliawsky ([@arkadiilviv](https://github.com/arkadiilviv))
 
-<!--
-**arkadiilviv/arkadiilviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack .NET Developer** from Salzburg, Austria  
+Passionate about crafting clear, semantic code and user-focused web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Training
+- **B.Sc. in Computer Science**, *Lviv University of Trade and Economics* (Sep 2017 – May 2021)
+- 
+---
+
+## 🌐 Languages
+
+- Ukrainian (native)  
+- Russian (native)  
+- English (fluent)
+
+---
+
+## 📫 Reach Out
+
+- GitHub: [@arkadiilviv](https://github.com/arkadiilviv)  
+- Telegram: [invalidnametaken](https://t.me/invalidnametaken)
+
+---
+
+### ✨ Let’s Connect!
+
+Interested in .NET, clean architecture, or collaboration? Feel free to explore my repos and drop a message!
