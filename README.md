@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arkadii Bieliawsky ([@arkadiilviv](https://github.com/arkadiilviv))
+# 👋 Hi, I’m Arkadii Biliavskyi ([@arkadiilviv](https://github.com/arkadiilviv))
 
 **Full-Stack .NET Developer** from Salzburg, Austria  
 Passionate about crafting clear, semantic code and user-focused web experiences.
