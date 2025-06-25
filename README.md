@@ -22,6 +22,7 @@ Passionate about crafting clear, semantic code and user-focused web experiences.
 
 - GitHub: [@arkadiilviv](https://github.com/arkadiilviv)  
 - Telegram: [invalidnametaken](https://t.me/invalidnametaken)
+- LinkedIn: [Arkadii Biliavskyi](https://www.linkedin.com/in/arkadii-biliavskyi-626637155)
 
 ---
 
